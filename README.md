@@ -76,3 +76,18 @@ This is an experimental academic DSP project for EEG signal analysis. The REVIEW
 ## Author
 Developed as an academic Digital Signal Processing project.
 
+
+## Project Visualisations
+
+### 1. Raw EEG Signal – Time Domain
+![Raw EEG Signal](raw-eeg-time-domain.jpeg)
+
+### 2. EEG Frequency Spectrum – FFT
+![FFT Frequency Spectrum](fft-frequency-spectrum.jpeg)
+
+### 3. EEG Frequency Band Power Distribution
+![Frequency Band Power](frequency-band-power.jpeg)
+
+### 4. EEG Frequency Band Trend Analysis
+![Frequency Band Trend](frequency-band-trend.jpeg)
+
